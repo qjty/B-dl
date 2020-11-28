@@ -3,3 +3,4 @@
 <br>这是一个免费开源的下载器，但是只有RX工作室的成员才可以使用！
 <br>[教程视频](https://pan.baidu.com/s/1di5KAScysOuqGFCyM92UtQ)
 <br>欢迎大家来debug!
+<br>以后所有的cookies.sqlite都会在这里更新!
